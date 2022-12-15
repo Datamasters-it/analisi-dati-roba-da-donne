@@ -15,7 +15,8 @@ Benvenuti al Workshop di [Data Masters](https://datamasters.it) organizzato insi
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Datamasters-it/Gotta-Check-Them-All/blob/main/Live_Coding_FULL.ipynb)
 
 **Slides Deck**: 
-[Slides]:(https://frankhood-my.sharepoint.com/:p:/g/personal/info_frankhood_onmicrosoft_com/EbyiMCYaRrpCnOg9scMTxIUBkbpjT2wed3ESDo1ulOd8vw?e=87VPTP)
+
+A [questo](https://frankhood-my.sharepoint.com/:p:/g/personal/info_frankhood_onmicrosoft_com/EbyiMCYaRrpCnOg9scMTxIUBkbpjT2wed3ESDo1ulOd8vw?e=87VPTP) link puoi scaricare le slide del workshop.
 
 ## Table of Content
 

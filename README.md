@@ -14,12 +14,9 @@ Benvenuti al Workshop di [Data Masters](https://datamasters.it) organizzato insi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Datamasters-it/Gotta-Check-Them-All/main?labpath=Live_Coding_FULL.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Datamasters-it/Gotta-Check-Them-All/blob/main/Live_Coding_FULL.ipynb)
 
-**Notebooks con Pandas**: 
+**Slides Deck**:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Datamasters-it/Gotta-Check-Them-All/main?labpath=Live_Coding_FULL_Pandas.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Datamasters-it/Gotta-Check-Them-All/blob/main/Live_Coding_FULL_Pandas.ipynb)
-
-[**Slides Deck**]:(https://frankhood-my.sharepoint.com/:p:/g/personal/info_frankhood_onmicrosoft_com/EbyiMCYaRrpCnOg9scMTxIUBkbpjT2wed3ESDo1ulOd8vw?e=2IwOv1)
+[Slides]:(https://frankhood-my.sharepoint.com/:p:/g/personal/info_frankhood_onmicrosoft_com/EbyiMCYaRrpCnOg9scMTxIUBkbpjT2wed3ESDo1ulOd8vw?e=87VPTP)
 
 ## Table of Content
 
